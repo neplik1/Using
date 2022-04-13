@@ -12,4 +12,5 @@ class MainActivity : AppCompatActivity() {
         var string2 = "hey gid"
 
     }
+    // Connect firebase to the prodgect
 }
