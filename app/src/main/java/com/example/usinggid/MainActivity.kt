@@ -11,7 +11,11 @@ class MainActivity : AppCompatActivity() {
 
         var string2 = "hey gid"
 
+        var string3 ="training"
+
     }
     // Connect firebase to the prodgect
     // Add login
+
+
 }
