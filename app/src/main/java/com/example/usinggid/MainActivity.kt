@@ -17,5 +17,7 @@ class MainActivity : AppCompatActivity() {
     // Connect firebase to the prodgect
     // Add login
 
+    // use new branch
+
 
 }
